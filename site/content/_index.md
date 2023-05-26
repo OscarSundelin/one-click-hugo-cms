@@ -1,6 +1,6 @@
 ---
 title: "Oscar Soundline"
-subtitle: This is just a test page
+subtitle: Doodle doodle!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
